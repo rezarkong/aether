@@ -4,6 +4,6 @@ This repository is a software implementation of the paper AETHER: An Ultra-High 
 
 `./ref` is edited from https://github.com/qantik/aether.
 
-`Checker.cpp` was created by me using SSE instructions.
+`Checker.cpp` was created by myself using SSE instructions.
 
-Both implementations do not match the test vectors in the paper, but I have been unable to find the bug.
+Both implementations **do not** match the test vectors in the paper.
